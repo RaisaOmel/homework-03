@@ -31,7 +31,6 @@ body{
 
 aside {
     width: 15%;
-    height: 100%;
     float: right; 
     background-color: #ccc;   
     padding: 5px;
@@ -39,12 +38,11 @@ aside {
     margin: 5px 5px 0px 0px;
     border: 2px solid black;
     border-radius: 3px;
-    overflow: auto;
+    /*overflow: auto;*/
 }
 
 section {
     width: 84%;
-    height: 100%;
     display: inline-block;
     text-align: center;
     background-color: #ccc;  
@@ -52,7 +50,7 @@ section {
     margin: 5px 0px 0px 5px;
     border: 2px solid black; 
     border-radius: 3px;
-    overflow: auto;
+    /*overflow: auto;*/
 }
 
 footer{
