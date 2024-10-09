@@ -17,7 +17,7 @@ body{
     /* width: calc(1500px + 3*20px); */
     background-color: #fff;
     margin: 0px;
-
+    padding: 3px;    
 }
 .header_main {
     display: block;
@@ -30,7 +30,7 @@ body{
 }
 
 aside {
-    width: 15%;
+    max-width: 15%;
     float: right; 
     background-color: #ccc;   
     padding: 5px;
@@ -42,7 +42,7 @@ aside {
 }
 
 section {
-    width: 84%;
+    max-width: 84%;
     display: inline-block;
     text-align: center;
     background-color: #ccc;  
