@@ -31,7 +31,7 @@ body{
 
 aside {
     width: 15%;
-    height: 600px;
+    height: 100%;
     float: right; 
     background-color: #ccc;   
     padding: 5px;
@@ -44,7 +44,7 @@ aside {
 
 section {
     width: 84%;
-    height: 600px;
+    height: 100%;
     display: inline-block;
     text-align: center;
     background-color: #ccc;  
